@@ -2,7 +2,7 @@
 	"clients": [
 		{
 			"id": 1,
-			"name": "Wiley Burchett",
+			"name": "Félix Burchett",
 			"nickname": "wburchett0",
 			"phone": "(522) 5202689",
 			"phone2": "(448) 6583536",
@@ -14,7 +14,7 @@
 		},
 		{
 			"id": 2,
-			"name": "Cindee I'anson",
+			"name": "Cindee Felix I'anson",
 			"nickname": "cianson1",
 			"phone": "(866) 2157575",
 			"phone2": "(846) 6547724",
@@ -26,7 +26,7 @@
 		},
 		{
 			"id": 3,
-			"name": "Chandler Scriver",
+			"name": "Chàndler Scriver Felïx",
 			"nickname": "cscriver2",
 			"phone": "(543) 2242036",
 			"phone2": null,
