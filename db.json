@@ -1,0 +1,24 @@
+{
+	"tickets": [
+		{ "high": 97, "medium": 47, "low": 66, "none": 37, "total": 247 },
+		{ "high": 38, "medium": 86, "low": 88, "none": 38, "total": 250 },
+		{ "high": 45, "medium": 25, "low": 70, "none": 32, "total": 172 },
+		{ "high": 28, "medium": 63, "low": 75, "none": 44, "total": 210 },
+		{ "high": 41, "medium": 59, "low": 27, "none": 52, "total": 179 },
+		{ "high": 18, "medium": 85, "low": 49, "none": 78, "total": 230 },
+		{ "high": 97, "medium": 37, "low": 34, "none": 55, "total": 223 },
+		{ "high": 65, "medium": 55, "low": 57, "none": 100, "total": 277 },
+		{ "high": 77, "medium": 39, "low": 20, "none": 34, "total": 170 },
+		{ "high": 43, "medium": 44, "low": 94, "none": 84, "total": 265 },
+		{ "high": 59, "medium": 93, "low": 30, "none": 29, "total": 211 },
+		{ "high": 59, "medium": 78, "low": 45, "none": 35, "total": 217 },
+		{ "high": 81, "medium": 10, "low": 17, "none": 47, "total": 155 },
+		{ "high": 60, "medium": 85, "low": 23, "none": 60, "total": 228 },
+		{ "high": 60, "medium": 32, "low": 91, "none": 20, "total": 203 },
+		{ "high": 17, "medium": 94, "low": 35, "none": 55, "total": 201 },
+		{ "high": 60, "medium": 86, "low": 52, "none": 48, "total": 246 },
+		{ "high": 19, "medium": 19, "low": 26, "none": 38, "total": 102 },
+		{ "high": 47, "medium": 40, "low": 62, "none": 90, "total": 239 },
+		{ "high": 65, "medium": 66, "low": 12, "none": 18, "total": 161 }
+	]
+}
