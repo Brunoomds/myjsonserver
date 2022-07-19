@@ -6,9 +6,9 @@
 			{ "value": "waiting on customer", "qtd": 53 }
 		],
 		"priority": [
-			{ "value": "high", "qtd": 81 },
-			{ "value": "medium", "qtd": 121 },
-			{ "value": "low", "qtd": 104 },
+			{ "value": "high", "qtd": 171 },
+			{ "value": "medium", "qtd": 81 },
+			{ "value": "low", "qtd": 54 },
 			{ "value": "none", "qtd": 49 }
 		],
 		"total": 355
