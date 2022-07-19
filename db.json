@@ -1,8 +1,16 @@
 {
-	"priority": [
-		{ "name": "high", "value": 97 },
-		{ "name": "medium", "value": 47 },
-		{ "name": "low", "value": 66 },
-		{ "name": "none", "value": 37 }
-	]
+	"tickets": {
+		"status": [
+			{ "value": "active", "qtd": 79 },
+			{ "value": "solved", "qtd": 223 },
+			{ "value": "waiting on customer", "qtd": 53 }
+		],
+		"priority": [
+			{ "value": "high", "qtd": 81 },
+			{ "value": "medium", "qtd": 121 },
+			{ "value": "low", "qtd": 104 },
+			{ "value": "none", "qtd": 49 }
+		],
+		"total": 355
+	}
 }
